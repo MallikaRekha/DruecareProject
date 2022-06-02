@@ -1,0 +1,13 @@
+----------------------------------------------------------------
+Wed Apr 27 16:43:37 IST 2022:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.14.2.0 - (1828579): instance a816c00e-0180-6aba-019d-000002045400 
+on database directory memory:C:\Users\Sree\Documents\workspace-spring-tool-suite-4-4.14.0.RELEASE\Movie-Rating_Service\19251dc6-1221-4fc6-9685-3022f1cb365a with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@2f333739 
+Loaded from file:/C:/Users/Sree/.m2/repository/org/apache/derby/derby/10.14.2.0/derby-10.14.2.0.jar
+java.vendor=Eclipse Adoptium
+java.runtime.version=17.0.2+8
+user.dir=C:\Users\Sree\Documents\workspace-spring-tool-suite-4-4.14.0.RELEASE\Movie-Rating_Service
+os.name=Windows 7
+os.arch=amd64
+os.version=6.1
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
